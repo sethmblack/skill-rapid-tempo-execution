@@ -3,8 +3,9 @@ name: rapid-tempo-execution
 description: Accelerate execution to gain initiative and surprise, outpacing competition or circumstances.
 license: MIT
 metadata:
+  version: 1.0.4795
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - escalation
